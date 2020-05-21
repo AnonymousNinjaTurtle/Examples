@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a9afc6c.chunk.css",
-    "main.js": "/static/js/main.bbdd3626.chunk.js",
-    "main.js.map": "/static/js/main.bbdd3626.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d2f92e28.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d2f92e28.js.map",
-    "static/js/2.514bc5ab.chunk.js": "/static/js/2.514bc5ab.chunk.js",
-    "static/js/2.514bc5ab.chunk.js.map": "/static/js/2.514bc5ab.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.60c84c2ae0d30b7db7b1cb2cb8b4cb6d.js": "/precache-manifest.60c84c2ae0d30b7db7b1cb2cb8b4cb6d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9a9afc6c.chunk.css.map": "/static/css/main.9a9afc6c.chunk.css.map",
-    "static/js/2.514bc5ab.chunk.js.LICENSE.txt": "/static/js/2.514bc5ab.chunk.js.LICENSE.txt",
-    "static/media/Code_RDFStyledPipeline.png": "/static/media/Code_RDFStyledPipeline.2b17f903.png",
-    "static/media/Code_SPARQLPipeline.png": "/static/media/Code_SPARQLPipeline.e74f3cfd.png",
-    "static/media/Code_VowlPipe.png": "/static/media/Code_VowlPipe.a51c21db.png",
-    "static/media/NodeLinkPipeline.png": "/static/media/NodeLinkPipeline.be64a666.png"
+    "main.css": "/Examples/static/css/main.9a9afc6c.chunk.css",
+    "main.js": "/Examples/static/js/main.46f2cdf6.chunk.js",
+    "main.js.map": "/Examples/static/js/main.46f2cdf6.chunk.js.map",
+    "runtime-main.js": "/Examples/static/js/runtime-main.45dbcfcd.js",
+    "runtime-main.js.map": "/Examples/static/js/runtime-main.45dbcfcd.js.map",
+    "static/js/2.90d964b5.chunk.js": "/Examples/static/js/2.90d964b5.chunk.js",
+    "static/js/2.90d964b5.chunk.js.map": "/Examples/static/js/2.90d964b5.chunk.js.map",
+    "index.html": "/Examples/index.html",
+    "precache-manifest.fb99f131ef6611daa29886224c8a2ac5.js": "/Examples/precache-manifest.fb99f131ef6611daa29886224c8a2ac5.js",
+    "service-worker.js": "/Examples/service-worker.js",
+    "static/css/main.9a9afc6c.chunk.css.map": "/Examples/static/css/main.9a9afc6c.chunk.css.map",
+    "static/js/2.90d964b5.chunk.js.LICENSE.txt": "/Examples/static/js/2.90d964b5.chunk.js.LICENSE.txt",
+    "static/media/Code_RDFStyledPipeline.png": "/Examples/static/media/Code_RDFStyledPipeline.2b17f903.png",
+    "static/media/Code_SPARQLPipeline.png": "/Examples/static/media/Code_SPARQLPipeline.e74f3cfd.png",
+    "static/media/Code_VowlPipe.png": "/Examples/static/media/Code_VowlPipe.a51c21db.png",
+    "static/media/NodeLinkPipeline.png": "/Examples/static/media/NodeLinkPipeline.be64a666.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2f92e28.js",
-    "static/js/2.514bc5ab.chunk.js",
+    "static/js/runtime-main.45dbcfcd.js",
+    "static/js/2.90d964b5.chunk.js",
     "static/css/main.9a9afc6c.chunk.css",
-    "static/js/main.bbdd3626.chunk.js"
+    "static/js/main.46f2cdf6.chunk.js"
   ]
 }
